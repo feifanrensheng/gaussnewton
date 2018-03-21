@@ -1,0 +1,3 @@
+/home/zn/gaussnewton/build/CMakeFiles/rebuild_cache.dir
+/home/zn/gaussnewton/build/CMakeFiles/edit_cache.dir
+/home/zn/gaussnewton/build/CMakeFiles/gaussnewton.dir
